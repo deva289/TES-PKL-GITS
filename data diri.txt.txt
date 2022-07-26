@@ -1,0 +1,12 @@
+Data diri
+
+1.Nama                 : deva fadillah
+  Tempat Tanggal Lahir : bandung,jawa barat 21 Desember 2004
+  Alamat               : kp.sadangsari 
+  Tahun Masuk          : 2020
+  No Handphone         : 081224841103
+  Jurusan              : Rekayasa Perangkat Lunak
+  email                : devafadillah12@gmail.com
+  sekolah              : SMK ASSALAAM BANDUNG
+  Alamat Sekolah       : Jln.Cibaduyut 
+  KTP                  : -
